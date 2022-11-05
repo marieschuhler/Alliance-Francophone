@@ -1,0 +1,39 @@
+body {
+  background-color: #173652;
+
+  color: #444444;
+}
+.mainContent {
+  max-width: 55%;
+  margin: 0 auto;
+  background-color: #edebdf;
+  border-color: #0055a4;
+  border-style: solid;
+  padding: 10px 10px 10px 10px;
+}
+.titles {
+  color: #345573;
+}
+.js-language-button {
+  margin-right: 10px;
+  border: none;
+  background-color: #edebdf;
+  float: right;
+}
+.js-language-button:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.nav-buttons {
+  border: none;
+  color: #99661f;
+  background-color: #edebdf;
+}
+.nav-buttons:hover {
+  border: solid;
+  border-width: 1px;
+  background-color: rgb(231, 218, 195);
+  border-color: #eab660;
+  border-radius: 10px;
+  cursor: pointer;
+}
